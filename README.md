@@ -1,0 +1,1 @@
+# Metabolic_syndrome_simple_calssification
